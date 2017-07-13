@@ -1,0 +1,1 @@
+export GAZEBO_PLUGIN_PATH=$HOME/Desktop/University/2016:17-2/Robots/task1_RobotControl/build:$GAZEBO_PLUGIN_PATH
